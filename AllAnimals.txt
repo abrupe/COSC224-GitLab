@@ -17,9 +17,9 @@ Ernesto's
 4
 
 Nastaran's
-1
-2
-3
-4
+1 Dog
+2 Deer
+3 Cat
+4 Raccoon
 
 ends here
