@@ -5,10 +5,10 @@ Aslan's
 4 Chipmunk
 
 Jiho's
-1
-2
-3
-4
+1 Raven
+2 Orca
+3 Black Mamba
+4 Octopus
 
 Ernesto's
 1
