@@ -11,10 +11,10 @@ Jiho's
 4 Octopus
 
 Ernesto's
-1
-2
-3
-4
+1 Dolphin
+2 Jackal
+3 Wolf
+4 Jellyfish
 
 Nastaran's
 1 Dog 
